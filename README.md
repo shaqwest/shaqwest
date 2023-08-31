@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaqwest
-- Im a undegraduate students at Gadjah Mada University, and i love coding
-- please feel free to teach me something because i need more experience!
+- Im a fresh graduate in Computer Science at Gadjah Mada University, and i love coding
+- please feel free to ask me something because only then i can explain it and learn at the same time = more experience!
 
 <!---
 shaqwest/shaqwest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
